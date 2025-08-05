@@ -1,4 +1,4 @@
-# DummyThon
+@@
 Comprehensive General Overview: Resco Mobile App vs Dynamics 365 Field Service Mobile App
 Information to Gather	Resco Mobile App	Dynamics 365 Field Service Mobile App
 Vendor Information	Resco, founded in 1999, specializes in mobility solutions, particularly for field services and inspections. Headquarters: Slovakia, EU. Known for flexibility and offline capability.	Microsoft Dynamics 365, part of the Microsoft cloud ecosystem. Field Service module integrated directly with Dynamics CRM/Dataverse. Globally recognized enterprise-grade platform.
